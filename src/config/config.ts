@@ -22,7 +22,7 @@ const siteConfig = {
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Shrinjini Samanta – Making Sense of Stories and Statistics',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
