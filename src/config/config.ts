@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Shrinjini Samanta',
     title: 'Making Sense of Stories and Statistics | Research , Writing and Data Analysis',
-    image: getAsset('image: '/images/shrinjini.jpg','), // Customize or replace with your profile image
+    image: getAsset('"C:\Users\shrin\Downloads\WhatsApp Image 2026-02-02 at 9.02.47 AM.jpeg"'), // Customize or replace with your profile image
     description:
       'I am an undergraduate student with a strong foundation in humanities, mathematics, and economics. My interests lie in research, data-driven analysis, and academic writing, where I aim to connect social realities with quantitative insight.\n' +
       '\n' +
