@@ -14,11 +14,11 @@ const siteConfig = {
       '\n' +
       'Student at Christ University Bannerghatta Road Campus pursuing a Bsc with a major in Economics and a minor in Data Science.\n' +
       '\n' +
-      'Economics and Data Science undergraduate with hands-on experience in data analysis and research projects.\n' +
+      'Economics and Data Science undergraduate with hands-on experience in survey-based data analysis through a campus canteen satisfaction study, and social impact exposure through volunteering at an early intervention NGO supporting educational initiatives.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Driven by curiosity and clarity.',
+    location: 'Bengaluru, Karnataka, India',
   },
 
   seo: {
