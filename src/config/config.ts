@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Student & Aspiring Analyst', 'Learning through academic projects and hands-on analysis', 'Projects that combine data, people, and insight', 'Someone who learns by doing'],
 
   navigation: [
     { name: 'Home', url: '/' },
