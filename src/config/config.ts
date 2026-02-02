@@ -16,7 +16,7 @@ const siteConfig = {
       '\n' +
       'Economics and Data Science undergraduate with hands-on experience in survey-based data analysis through a campus canteen satisfaction study, and social impact exposure through volunteering at an early intervention NGO supporting educational initiatives.\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
+      'Presented academic projects and analytical reports during coursework and college events.',
     tagline: 'Driven by curiosity and clarity.',
     location: 'Bengaluru, Karnataka, India',
   },
