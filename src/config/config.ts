@@ -7,10 +7,10 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Shrinjini Samanta',
-    title: 'Your Title | Your Role',
+    title: 'Making Sense of Stories and Statistics | Research , Writing and Data Analysis',
     image: getAsset('image: '/images/shrinjini.jpg','), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am an undergraduate student with a strong foundation in humanities, mathematics, and economics. My interests lie in research, data-driven analysis, and academic writing, where I aim to connect social realities with quantitative insight.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
